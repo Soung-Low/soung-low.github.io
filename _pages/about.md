@@ -15,10 +15,12 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
-As a social data scientist, I work at the intersection of data science and political science. Substantively, my research focuses on **inequalities and stereotypes**, particularly on the Malaysian political sphere. Methodologically, I focus on **quantitative textual analysis for multilingual texts** and natural language processing. I graduated with a MSc in Applied Social Data Science (Distinction) from the London School of Economics and Political Science (LSE). 
+As a social data scientist, I work at the intersection of data science and political science. I graduated with a MSc in Applied Social Data Science (Distinction) from the London School of Economics and Political Science (LSE). 
+
+Substantively, my research focuses on **inequalities and stereotypes**, particularly on the Malaysian political sphere. Methodologically, I focus on **quantitative textual analysis for multilingual texts** and natural language processing. 
 
 In addition to my academic work, I have professional experience in the financial industry in the UK. My time working as Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/) gave me valuable insights into the consumer lending industry, including loan decisioning and pricing processes, as well as the optimization of lending and savings products.
 
