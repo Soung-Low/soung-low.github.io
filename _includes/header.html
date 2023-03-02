@@ -52,8 +52,8 @@
                 </a>
               </li>
 
-              {% if site.blog_nav_title %}
               <!-- Blog -->
+              {% if site.blog_nav_title %}
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
                   {%- if page.url contains 'blog' -%}
@@ -95,7 +95,6 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
-              {%- if site.enable_darkmode %}
 
               <!-- CV -->
               <li class="nav-item active">
@@ -103,6 +102,7 @@
               </li>
 
               <!-- Toogle theme mode -->
+              {%- if site.enable_darkmode %}
               <li class="toggle-container">
                 <button id="light-toggle" title="Change theme">
                   <i class="fas fa-moon"></i>
