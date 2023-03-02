@@ -63,11 +63,6 @@
               </li>
               {%- endif %}
 
-              <!-- CV -->
-              <li class="nav-item active">
-                <a class="nav-link" href="{{ '/assets/pdf/cv_soung_082022.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>
-              </li>
-
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
@@ -101,6 +96,11 @@
               {%- endif -%}
               {% endfor -%}
               {%- if site.enable_darkmode %}
+
+              <!-- CV -->
+              <li class="nav-item active">
+                <a class="nav-link" href="{{ '/assets/pdf/cv_soung_0822.pdf' | prepend: site.baseurl | prepend: site.url }}">cv</a>
+              </li>
 
               <!-- Toogle theme mode -->
               <li class="toggle-container">
