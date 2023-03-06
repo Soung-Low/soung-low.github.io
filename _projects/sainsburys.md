@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
-importance: 2
+title: Investigating the impact of the UK’s Soft Drinks Industry Levy on consumers’ purchases of soft drinks
+description: A project in collaboration with Sainsbury's during my time as a Data Study Group participant for the Alan Turing Institute. 
+img: assets/img/sainsburys.png
+importance: 1
+redirect: https://www.turing.ac.uk/research/publications/data-study-group-final-report-sainsburys
 category: work
 ---
 
