@@ -3,9 +3,12 @@ layout: page
 title: Belanjawan 2021
 description: Are Malaysians happy with Belanjawan 2021? — a Twitter analysis
 img: assets/img/belanjawan.png
-importance: 3
+importance: 1
 redirect: https://sounglow.medium.com/are-malaysians-happy-with-belanjawan-2021-964144174e96
+github: https://github.com/Soung-Low/belanjawan-2021-tweets-analysis
+github_stars: true
 category: fun
+
 ---
 
 Every project has a beautiful feature showcase page.
