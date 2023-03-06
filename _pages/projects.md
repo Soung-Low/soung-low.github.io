@@ -2,7 +2,7 @@
 layout: page
 title: blog
 permalink: /project/
-description: A growing collection of your cool projects.
+description: A collection of my projects.
 nav: true
 nav_order: 3
 display_categories: [fun]
@@ -36,10 +36,10 @@ horizontal: true
   {% endfor %}
 
 {%- else -%}
-<!-- Display projects without categories -->
+  <!-- Display projects without categories -->
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+  <!-- {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
@@ -53,6 +53,6 @@ horizontal: true
       {% include projects.html %}
     {%- endfor %}
   </div>
-  {%- endif -%}
+  {%- endif -%} -->
 {%- endif -%}
 </div>
