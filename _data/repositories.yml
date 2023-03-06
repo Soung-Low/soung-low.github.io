@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - soung-low
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Soung-Low/gender-in-parliament
+  - Soung-Low/ethnic-stereotypes-malaysia
+  - Soung-Low/sentiment-index-chinese-stock-market
+  - Soung-Low/belanjawan-2021-dash-app
+  - Soung-Low/belanjawan-2021-tweets-analysis
