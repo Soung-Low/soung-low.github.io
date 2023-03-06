@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Are Malaysians happy with Belanjawan 2021? — a Twitter analysis
-description: - 
+title: Belanjawan 2021
+description: Are Malaysians happy with Belanjawan 2021? — a Twitter analysis
 img: assets/img/belanjawan.png
-importance: 1
+importance: 3
 redirect: https://sounglow.medium.com/are-malaysians-happy-with-belanjawan-2021-964144174e96
 category: fun
 ---
