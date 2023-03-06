@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Are Malaysians happy with Belanjawan 2021? — a Twitter analysis
+description: - 
+img: assets/img/belanjawan.png
 importance: 1
-category: work
+redirect: https://sounglow.medium.com/are-malaysians-happy-with-belanjawan-2021-964144174e96
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
