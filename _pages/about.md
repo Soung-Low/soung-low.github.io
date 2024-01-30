@@ -18,13 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-As a social data scientist, I work at the intersection of **data science** and **political communication**. I graduated with a MSc in Applied Social Data Science (Distinction) from the London School of Economics and Political Science (LSE). 
+I am a data scientist with professional experience in the financial industry in the UK. I am currently working as a **Model Risk Data Scientist** at NatWest Group where I validate various types of machine learning across different functions. Prior to this, I was a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), which gave me valuable insights into the consumer lending industry, including loan decisioning and pricing processes, as well as the optimization of lending and savings products.
 
-Substantively, my research focuses on **political representation, inequalities and stereotypes** (particularly on the Malaysian political sphere), and **public opinion**. Methodologically, I focus on natural language processing and quantitative textual analysis for multilingual texts, such as news, parliamentary speech, and social media. 
+In addition to my professional work, I identify as a social data scientist. I am interested in the intersection of **data science** and **political communication**. Substantively, my research focuses on **political representation, inequalities and stereotypes** (particularly on the Malaysian political sphere), and **public opinion**. Methodologically, I focus on natural language processing and quantitative textual analysis for multilingual texts, such as news, parliamentary speech, and social media. I graduated with a MSc in Applied Social Data Science (Distinction) from the London School of Economics and Political Science (LSE). 
 
-In addition to my academic work, I have professional experience in the financial industry in the UK. I am currently working as a Model Risk Data Scientist at NatWest Group. Prior to this, I was a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), which gave me valuable insights into the consumer lending industry, including loan decisioning and pricing processes, as well as the optimization of lending and savings products.
-
-\#stereotypes \#gender \#races \#textasdata \#parliamentarydata \#newsmedia \#malaysia
+<!-- \#stereotypes \#gender \#races \#textasdata \#parliamentarydata \#newsmedia \#malaysia -->
 
 <!-- I am passionate about using data and computational methods to drive social good. -->
 <!-- using representation learning in natural language processing. -->
