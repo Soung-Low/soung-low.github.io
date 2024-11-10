@@ -18,9 +18,19 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a data scientist with professional experience in the financial industry in the UK. I am currently working as a **Model Risk Data Scientist** at NatWest Group where I validate various types of machine learning across different functions. Prior to this, I was a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), which gave me valuable insights into the consumer lending industry, including loan decisioning and pricing processes, as well as the optimization of lending and savings products.
+A data scientist in the UK financial industry. 
 
-In addition to my professional work, I identify as a **social data scientist**. I am interested in the intersection of data science and political communication. Substantively, my research focuses on political representation, inequalities and stereotypes (particularly on the Malaysian political sphere), and public opinion. Methodologically, I focus on natural language processing and quantitative textual analysis for multilingual texts, such as news, parliamentary speech, and social media. I graduated with a MSc in Applied Social Data Science (Distinction) from the London School of Economics and Political Science (LSE). 
+**Professional Experience**
+
+I am currently working as a **Model Risk Data Scientist** at NatWest Group where I review, test, and validate AI models across different functions of the bank, such as fraud, financial crime, and marketing. Thanks to my prior role as a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), I have experience in retail lending, particularly in the approval and pricing of loans and savings products using credit bureau data. 
+
+**Personal Interest** 
+
+I also identify as a **social data scientist**, who is interested in the intersection of data science and political communication. Substantively, my research focuses on political representation, inequalities and stereotypes (particularly on the Malaysian political sphere), and public opinion. Methodologically, I focus on natural language processing and quantitative textual analysis for multilingual texts, such as news, parliamentary speech, and social media. 
+
+**Education**
+
+I hold an MSc in Applied Social Data Science with Distinction from the London School of Economics and Political Science (UK), and a BSc in Economics from Feng Chia University (Taiwan), where I ranked first in my cohort.
 
 <!-- \#stereotypes \#gender \#races \#textasdata \#parliamentarydata \#newsmedia \#malaysia -->
 
