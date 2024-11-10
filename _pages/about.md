@@ -22,7 +22,7 @@ A data scientist in the UK financial industry.
 
 **Professional Experience**
 
-I am currently working as a **Model Risk Data Scientist** at [NatWest Group](https://www.linkedin.com/company/natwest-group/) where I review, test, and validate AI models across different functions of the bank, such as fraud, financial crime, and marketing. With my prior role as a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), I also have experience in retail lending, particularly in the approval and pricing of loans and savings products using credit bureau data. 
+I work as a **Model Risk Data Scientist** at [NatWest Group](https://www.linkedin.com/company/natwest-group/) where I review, test, and validate AI models across different functions of the bank, such as fraud, financial crime, and marketing. With my prior role as a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), I also have experience in retail lending, particularly in the approval and pricing of loans and savings products using credit bureau data. 
 
 **Personal Interest** 
 
