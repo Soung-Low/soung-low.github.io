@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-A data scientist in the UK financial industry with an interest in AI safety and model risk. 
+A data scientist working in the financial industry with an interest in AI safety and model risk. 
 
 **Professional Experience**
 
-I work as a **Model Risk Data Scientist** at [NatWest Group](https://www.linkedin.com/company/natwest-group/) where I review, test, and validate AI models across different functions of the bank, such as fraud, financial crime, and marketing. With my prior role as a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), I have experience in retail lending, particularly in the approval and pricing of loans and savings products using credit bureau data. 
+I work as a **Model Risk Data Scientist** at [NatWest Group](https://www.linkedin.com/company/natwest-group/) where I review, test, and validate AI models across different functions of the bank, such as fraud, financial crime, and marketing. With my prior role as a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), I have experience in retail lending, particularly the approval and pricing of loans and savings products using credit bureau data. 
 
 **Personal Interest** 
 
