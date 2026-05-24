@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Model Risk Data Scientist | AI Safety
+subtitle: 
 
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -18,21 +18,30 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Senior Model Risk Data Scientist at NatWest Group, with research interests in AI safety and evaluations.
+AI safety researcher and Senior Model Risk Data Scientist, with a focus on AI evaluations.
 
 **Professional Experience**
 
-As a **Senior Model Risk Data Scientist** at [NatWest Group](https://www.linkedin.com/company/natwest-group/), I design evaluation frameworks and lead fairness assessment standards for Gen AI and Agentic AI models, perform independent model validations, and build tooling — including a Python package for red teaming and LLM-powered governance workflows with RAG. Previously, as a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), I worked in retail lending on loan and savings product approval and pricing.
+- As a **Senior Model Risk Data Scientist** at [NatWest Group](https://www.linkedin.com/company/natwest-group/), I design evaluation frameworks and lead fairness assessment standards for Gen AI and Agentic AI models, perform independent model validations, and build tooling, including a Python package for red teaming and LLM-powered governance workflows with RAG. 
+
+- Previously, as a Data Scientist at [Amplifi Capital](https://www.linkedin.com/company/amplifi-capital-u-k-ltd/), I worked in retail lending on loan and savings product approval and pricing.
 
 **Interests** 
 
-I am particularly interested in **AI safety** (especially AI evaluations) and always open to chatting about research opportunities or potential collaborations. I'm passionate about helping grow the field back home in Malaysia. Please feel free to contact me at soung.low@outlook.com.
+- **AI safety**, particularly AI evaluations. My work and training span designing evaluation frameworks for Gen AI and Agentic AI, red teaming, algorithmic bias assessment, and AI ethics and law. I am actively looking for research opportunities and collaborations, and am passionate about growing the field in Malaysia. Feel free to reach out at soung.low@outlook.com.
 
-I am also interested in social data science, particularly the intersection of data science and political communication. Substantively, my master's research focused on political representation, inequalities and stereotypes (particularly on the Malaysian political sphere), and public opinion. Methodologically, I focus on natural language processing and quantitative textual analysis for multilingual texts, such as news, parliamentary speech, and social media. 
+- Social data science, particularly NLP and quantitative textual analysis applied to political communication and representation in the Malaysian context.
 
 **Education**
 
 I hold an MSc in Applied Social Data Science with Distinction from the London School of Economics and Political Science (UK), and a BSc in Economics from Feng Chia University (Taiwan), where I ranked first in my cohort.
+
+**Training**
+
+- **[ML4Good](https://ml4good.org/) (2026)** — Technical AI safety bootcamp covering LLM internals, AI evals, mechanistic interpretability, and governance
+- **[University of Edinburgh](https://uoe.badges.parchment.eu/public/credentials/SwtEMpz6TRe1nNz9rDHoWw) (2026)** — AI and Data Ethics: ethics and law, algorithmic bias, and applied fairness tools for the financial sector
+- **[AIS Collab](https://www.enais.co/collab) (2025)** — AI Alignment Track: an 8-week structured programme on the theory and practice of AI alignment
+- **[Alan Turing Institute](https://www.turing.ac.uk/events/data-study-group-may-2024) (2024)** — Research sprint on fairness measurement in financial transaction ML models, in collaboration with Mastercard
 
 <!-- \#stereotypes \#gender \#races \#textasdata \#parliamentarydata \#newsmedia \#malaysia -->
 
